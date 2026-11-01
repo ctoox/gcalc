@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>关系匹配 - gcalc</title>
+    <link rel="stylesheet" href="/static/cosmic.css">
+</head>
+<body class="cosmic-theme">
+    <div class="container">
+        <h1>关系匹配分析</h1>
+        <form id="match-form">
+            <h2>甲方信息</h2>
+            <div class="form-group">
+                <label>姓名</label>
+                <input type="text" name="name_a" placeholder="姓名">
+            </div>
+            <div class="form-group">
+                <label>出生日期</label>
+                <input type="text" name="birth_a" placeholder="1990-01-01">
+            </div>
+            <h2>乙方信息</h2>
+            <div class="form-group">
+                <label>姓名</label>
+                <input type="text" name="name_b" placeholder="姓名">
+            </div>
+            <div class="form-group">
+                <label>出生日期</label>
+                <input type="text" name="birth_b" placeholder="1990-01-01">
+            </div>
+            <button type="submit" class="btn-glow">分析匹配</button>
+        </form>
+        <div id="match-result" class="result-panel hidden"></div>
+        <a href="/" class="back-link">返回首页</a>
+    </div>
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "weights": {
+    "chinese": 0.010786014553938114,
+    "western": 0.8441814374439396,
+    "numerology": 1.8112846224026486,
+    "statistical": 0.10480180220346397
+  },
+  "career_weights": {
+    "east": 0.5,
+    "west": 0.5
+  },
+  "wealth_weights": {
+    "element": 0.4,
+    "house": 0.3,
+    "numerology": 0.3,
+    "career": 1.0,
+    "penalty": 1.0,
+    "base_lifespan": 72
+  },
+  "lifespan_base": 75,
+  "element_lifespan_bonus": {
+    "金": 5,
+    "木": 3,
+    "水": 4,
+    "火": 2,
+    "土": 6
+  },
+  "penalties": {
+    "missing_element": -15.386046215243722,
+    "conflict_ew": 0,
+    "weak_day_master": -25.66564403574312,
+    "severe_conflict": 0
+  },
+  "bonuses": {
+    "all_elements": 2.1626239297912786,
+    "strong_day_master": 17.856837912581973,
+    "ew_agree": 1,
+    "golden_mean": 28.68798237239988
+  },
+  "calibration_count": 1,
+  "accuracy": 55.66
+}

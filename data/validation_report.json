@@ -1,0 +1,279 @@
+{
+  "total_figures": 13,
+  "average_score": 12.3,
+  "average_max": 80.0,
+  "overall_accuracy": "15.4%",
+  "by_career": {
+    "Artist": "8%",
+    "Leader": "30%",
+    "Scientist": "6%",
+    "Writer": "16%"
+  },
+  "results": [
+    {
+      "name": "Albert Einstein",
+      "birth": "1879-03-14",
+      "zodiac": "Rabbit",
+      "bazi": "己卯",
+      "element": "土",
+      "sun_sign": "巨蟹",
+      "life_path": 6,
+      "lifespan": 76,
+      "career": "Scientist, Physicist",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 土 vs Scientist, Physicist",
+        "Zodiac-career: Rabbit vs Scientist, Physicist",
+        "Sun sign: 巨蟹 vs Scientist, Physicist",
+        "Life path: 6 vs Scientist, Physicist",
+        "Health: risk=0.39, lifespan=76"
+      ]
+    },
+    {
+      "name": "Isaac Newton",
+      "birth": "1643-01-04",
+      "zodiac": "Goat",
+      "bazi": "癸未",
+      "element": "水",
+      "sun_sign": "金牛",
+      "life_path": 1,
+      "lifespan": 84,
+      "career": "Scientist, Mathematician",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 水 vs Scientist, Mathematician",
+        "Zodiac-career: Goat vs Scientist, Mathematician",
+        "Sun sign: 金牛 vs Scientist, Mathematician",
+        "Life path: 1 vs Scientist, Mathematician",
+        "Health: risk=0.41, lifespan=84"
+      ]
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "birth": "1769-08-15",
+      "zodiac": "Ox",
+      "bazi": "己丑",
+      "element": "土",
+      "sun_sign": "射手",
+      "life_path": 1,
+      "lifespan": 51,
+      "career": "Leader, Emperor, Soldier",
+      "score": 20,
+      "max_score": 80,
+      "details": [
+        "Career-element: 土 vs Leader, Emperor, Soldier",
+        "Zodiac-career: Ox vs Leader, Emperor, Soldier",
+        "Sun sign: 射手 vs Leader, Emperor, Soldier",
+        "Life path match: +10 (1 for leader)",
+        "Health: risk=0.31, lifespan=51",
+        "Generating cycle: +10 (土 generates 金 -> Leader, Emperor, Soldier)"
+      ]
+    },
+    {
+      "name": "Wolfgang Mozart",
+      "birth": "1756-01-27",
+      "zodiac": "Rat",
+      "bazi": "丙子",
+      "element": "火",
+      "sun_sign": "金牛",
+      "life_path": 2,
+      "lifespan": 35,
+      "career": "Artist, Composer, Musician",
+      "score": 10,
+      "max_score": 80,
+      "details": [
+        "Career-element: 火 vs Artist, Composer, Musician",
+        "Zodiac-career: Rat vs Artist, Composer, Musician",
+        "Sun sign: 金牛 vs Artist, Composer, Musician",
+        "Life path match: +10 (2 for artist)",
+        "Health: risk=0.27, lifespan=35"
+      ]
+    },
+    {
+      "name": "Ludwig Beethoven",
+      "birth": "1770-12-17",
+      "zodiac": "Tiger",
+      "bazi": "庚寅",
+      "element": "金",
+      "sun_sign": "白羊",
+      "life_path": 8,
+      "lifespan": 56,
+      "career": "Artist, Composer",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 金 vs Artist, Composer",
+        "Zodiac-career: Tiger vs Artist, Composer",
+        "Sun sign: 白羊 vs Artist, Composer",
+        "Life path: 8 vs Artist, Composer",
+        "Health: risk=0.33, lifespan=56"
+      ]
+    },
+    {
+      "name": "Charles Darwin",
+      "birth": "1809-02-12",
+      "zodiac": "Snake",
+      "bazi": "己巳",
+      "element": "土",
+      "sun_sign": "双子",
+      "life_path": 5,
+      "lifespan": 73,
+      "career": "Scientist, Naturalist",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 土 vs Scientist, Naturalist",
+        "Zodiac-career: Snake vs Scientist, Naturalist",
+        "Sun sign: 双子 vs Scientist, Naturalist",
+        "Life path: 5 vs Scientist, Naturalist",
+        "Health: risk=0.38, lifespan=73"
+      ]
+    },
+    {
+      "name": "Marie Curie",
+      "birth": "1867-11-07",
+      "zodiac": "Rabbit",
+      "bazi": "丁卯",
+      "element": "火",
+      "sun_sign": "双鱼",
+      "life_path": 4,
+      "lifespan": 66,
+      "career": "Scientist, Chemist",
+      "score": 20,
+      "max_score": 80,
+      "details": [
+        "Career-element match: +20 (火 fits Scientist, Chemist)",
+        "Zodiac-career: Rabbit vs Scientist, Chemist",
+        "Sun sign: 双鱼 vs Scientist, Chemist",
+        "Life path: 4 vs Scientist, Chemist",
+        "Health: risk=0.36, lifespan=66"
+      ]
+    },
+    {
+      "name": "Winston Churchill",
+      "birth": "1874-11-30",
+      "zodiac": "Dog",
+      "bazi": "甲戌",
+      "element": "木",
+      "sun_sign": "双鱼",
+      "life_path": 7,
+      "lifespan": 90,
+      "career": "Leader, Politician, Writer",
+      "score": 35,
+      "max_score": 80,
+      "details": [
+        "Career-element match: +20 (木 fits Leader, Politician, Writer)",
+        "Zodiac-career: Dog vs Leader, Politician, Writer",
+        "Sun sign: 双鱼 vs Leader, Politician, Writer",
+        "Life path: 7 vs Leader, Politician, Writer",
+        "Health: risk=0.43, lifespan=90",
+        "Shensha presence: +5 (1 stars)",
+        "Generating cycle: +10 (木 generates 火 -> Leader, Politician, Writer)"
+      ]
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "birth": "1452-04-15",
+      "zodiac": "Monkey",
+      "bazi": "壬申",
+      "element": "水",
+      "sun_sign": "狮子",
+      "life_path": 4,
+      "lifespan": 67,
+      "career": "Artist, Inventor, Scientist",
+      "score": 10,
+      "max_score": 80,
+      "details": [
+        "Career-element: 水 vs Artist, Inventor, Scientist",
+        "Zodiac-career: Monkey vs Artist, Inventor, Scientist",
+        "Sun sign: 狮子 vs Artist, Inventor, Scientist",
+        "Life path: 4 vs Artist, Inventor, Scientist",
+        "Health: risk=0.36, lifespan=67",
+        "Generating cycle: +10 (水 generates 木 -> Artist, Inventor, Scientist)"
+      ]
+    },
+    {
+      "name": "William Shakespeare",
+      "birth": "1564-04-26",
+      "zodiac": "Rat",
+      "bazi": "甲子",
+      "element": "木",
+      "sun_sign": "狮子",
+      "life_path": 1,
+      "lifespan": 52,
+      "career": "Writer, Playwright, Poet",
+      "score": 25,
+      "max_score": 80,
+      "details": [
+        "Career-element match: +20 (木 fits Writer, Playwright, Poet)",
+        "Zodiac-career: Rat vs Writer, Playwright, Poet",
+        "Sun sign: 狮子 vs Writer, Playwright, Poet",
+        "Life path: 1 vs Writer, Playwright, Poet",
+        "Health: risk=0.32, lifespan=52",
+        "Shensha presence: +5 (1 stars)"
+      ]
+    },
+    {
+      "name": "Mao Zedong",
+      "birth": "1893-12-26",
+      "zodiac": "Snake",
+      "bazi": "癸巳",
+      "element": "水",
+      "sun_sign": "白羊",
+      "life_path": 5,
+      "lifespan": 82,
+      "career": "Leader, Politician, Revolutionary",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 水 vs Leader, Politician, Revolutionary",
+        "Zodiac-career: Snake vs Leader, Politician, Revolutionary",
+        "Sun sign: 白羊 vs Leader, Politician, Revolutionary",
+        "Life path: 5 vs Leader, Politician, Revolutionary",
+        "Health: risk=0.41, lifespan=82"
+      ]
+    },
+    {
+      "name": "Sun Yat-sen",
+      "birth": "1866-11-12",
+      "zodiac": "Tiger",
+      "bazi": "丙寅",
+      "element": "火",
+      "sun_sign": "双鱼",
+      "life_path": 8,
+      "lifespan": 58,
+      "career": "Leader, Revolutionary, Politician",
+      "score": 40,
+      "max_score": 80,
+      "details": [
+        "Career-element match: +20 (火 fits Leader, Revolutionary, Politician)",
+        "Zodiac-career hint: +10 (Tiger for Leader, Revolutionary, Politician)",
+        "Sun sign: 双鱼 vs Leader, Revolutionary, Politician",
+        "Life path match: +10 (8 for leader)",
+        "Health: risk=0.33, lifespan=58"
+      ]
+    },
+    {
+      "name": "Lu Xun",
+      "birth": "1881-09-25",
+      "zodiac": "Snake",
+      "bazi": "辛巳",
+      "element": "金",
+      "sun_sign": "摩羯",
+      "life_path": 7,
+      "lifespan": 55,
+      "career": "Writer, Critic, Intellectual",
+      "score": 0,
+      "max_score": 80,
+      "details": [
+        "Career-element: 金 vs Writer, Critic, Intellectual",
+        "Zodiac-career: Snake vs Writer, Critic, Intellectual",
+        "Sun sign: 摩羯 vs Writer, Critic, Intellectual",
+        "Life path: 7 vs Writer, Critic, Intellectual",
+        "Health: risk=0.33, lifespan=55"
+      ]
+    }
+  ]
+}

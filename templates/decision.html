@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>综合决策 - gcalc</title>
+    <link rel="stylesheet" href="/static/cosmic.css">
+</head>
+<body class="cosmic-theme">
+    <div class="container">
+        <h1>综合决策分析</h1>
+        <form id="analysis-form">
+            <div class="form-group">
+                <label>出生年份</label>
+                <input type="number" name="year" placeholder="如: 1990">
+            </div>
+            <div class="form-group">
+                <label>出生月份</label>
+                <input type="number" name="month" placeholder="1-12">
+            </div>
+            <div class="form-group">
+                <label>出生日期</label>
+                <input type="number" name="day" placeholder="1-31">
+            </div>
+            <div class="form-group">
+                <label>出生时辰</label>
+                <input type="number" name="hour" placeholder="0-23">
+            </div>
+            <button type="submit" class="btn-glow">开始分析</button>
+        </form>
+        <div id="result" class="result-panel hidden"></div>
+        <a href="/" class="back-link">返回首页</a>
+    </div>
+    <script src="/static/analysis.js"></script>
+</body>
+</html>

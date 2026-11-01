@@ -1,0 +1,539 @@
+{
+  "patterns": {
+    "DM=水|DOM=水|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 2,
+        "values": {
+          "长寿": 2
+        }
+      },
+      "wealth": {
+        "total": 2,
+        "values": {
+          "中": 1,
+          "高": 1
+        }
+      },
+      "fusion_score": {
+        "total": 2,
+        "values": {
+          "55": 1,
+          "64": 1
+        }
+      },
+      "social_mobility": {
+        "total": 2,
+        "values": {
+          "高": 2
+        }
+      }
+    },
+    "DM=火|DOM=火|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 4,
+        "values": {
+          "长寿": 1,
+          "普通": 2,
+          "短命": 1
+        }
+      },
+      "wealth": {
+        "total": 4,
+        "values": {
+          "高": 2,
+          "中": 2
+        }
+      },
+      "fusion_score": {
+        "total": 4,
+        "values": {
+          "89": 1,
+          "81": 1,
+          "64": 1,
+          "85": 1
+        }
+      },
+      "social_mobility": {
+        "total": 4,
+        "values": {
+          "极高 - 寒门贵子": 4
+        }
+      }
+    },
+    "DM=金|DOM=土|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 1,
+        "values": {
+          "短命": 1
+        }
+      },
+      "wealth": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      },
+      "fusion_score": {
+        "total": 1,
+        "values": {
+          "62": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      }
+    },
+    "DM=金|DOM=火|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 1,
+        "values": {
+          "短命": 1
+        }
+      },
+      "wealth": {
+        "total": 1,
+        "values": {
+          "中": 1
+        }
+      },
+      "fusion_score": {
+        "total": 1,
+        "values": {
+          "55": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "极高 - 寒门贵子": 1
+        }
+      }
+    },
+    "DM=土|DOM=金|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 2,
+        "values": {
+          "短命": 2
+        }
+      },
+      "wealth": {
+        "total": 2,
+        "values": {
+          "中": 2
+        }
+      },
+      "fusion_score": {
+        "total": 2,
+        "values": {
+          "58": 2
+        }
+      },
+      "social_mobility": {
+        "total": 2,
+        "values": {
+          "极高 - 寒门贵子": 2
+        }
+      }
+    },
+    "DM=木|DOM=土|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 1,
+        "values": {
+          "普通": 1
+        }
+      },
+      "wealth": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      },
+      "fusion_score": {
+        "total": 1,
+        "values": {
+          "70": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      }
+    },
+    "DM=火|DOM=木|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 1,
+        "values": {
+          "长寿": 1
+        }
+      },
+      "wealth": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      },
+      "fusion_score": {
+        "total": 1,
+        "values": {
+          "85": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      }
+    },
+    "DM=木|DOM=木|MISS=()|ALL=()": {
+      "lifespan_category": {
+        "total": 1,
+        "values": {
+          "短命": 1
+        }
+      },
+      "wealth": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      },
+      "fusion_score": {
+        "total": 1,
+        "values": {
+          "66": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      }
+    },
+    "DM=水|DOM=水|MISS=()|ALL=('土', '木', '水', '火', '金')": {
+      "career_domain": {
+        "total": 1,
+        "values": {
+          "science": 1
+        }
+      },
+      "wealth_level": {
+        "total": 1,
+        "values": {
+          "中": 1
+        }
+      },
+      "lifespan": {
+        "total": 1,
+        "values": {
+          "76": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "高": 1
+        }
+      },
+      "accuracy_rating": {
+        "total": 1,
+        "values": {
+          "7": 1
+        }
+      },
+      "user_comment": {
+        "total": 1,
+        "values": {
+          "理论物理学家": 1
+        }
+      }
+    },
+    "DM=火|DOM=火|MISS=()|ALL=('土', '木', '水', '火', '金')": {
+      "career_domain": {
+        "total": 1,
+        "values": {
+          "science": 1
+        }
+      },
+      "wealth_level": {
+        "total": 1,
+        "values": {
+          "中": 1
+        }
+      },
+      "lifespan": {
+        "total": 1,
+        "values": {
+          "84": 1
+        }
+      },
+      "social_mobility": {
+        "total": 1,
+        "values": {
+          "中": 1
+        }
+      },
+      "accuracy_rating": {
+        "total": 1,
+        "values": {
+          "8": 1
+        }
+      },
+      "user_comment": {
+        "total": 1,
+        "values": {
+          "": 1
+        }
+      }
+    }
+  },
+  "cases": [
+    {
+      "key": "DM=水|DOM=水|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "水",
+        "dominant": "水",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "长寿",
+        "wealth": "中",
+        "fusion_score": 55,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=火|DOM=火|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "火",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "长寿",
+        "wealth": "高",
+        "fusion_score": 89,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=金|DOM=土|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "金",
+        "dominant": "土",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "高",
+        "fusion_score": 62,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=金|DOM=火|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "金",
+        "dominant": "火",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "中",
+        "fusion_score": 55,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=土|DOM=金|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "土",
+        "dominant": "金",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "中",
+        "fusion_score": 58,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=木|DOM=土|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "木",
+        "dominant": "土",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "普通",
+        "wealth": "高",
+        "fusion_score": 70,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=火|DOM=火|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "火",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "普通",
+        "wealth": "中",
+        "fusion_score": 81,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=火|DOM=木|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "木",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "长寿",
+        "wealth": "高",
+        "fusion_score": 85,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=火|DOM=火|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "火",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "普通",
+        "wealth": "高",
+        "fusion_score": 64,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=木|DOM=木|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "木",
+        "dominant": "木",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "高",
+        "fusion_score": 66,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=水|DOM=水|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "水",
+        "dominant": "水",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "长寿",
+        "wealth": "高",
+        "fusion_score": 64,
+        "social_mobility": "高"
+      }
+    },
+    {
+      "key": "DM=火|DOM=火|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "火",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "中",
+        "fusion_score": 85,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=土|DOM=金|MISS=()|ALL=()",
+      "bazi_summary": {
+        "day_master": "土",
+        "dominant": "金",
+        "missing": [],
+        "counts": {}
+      },
+      "outcomes": {
+        "lifespan_category": "短命",
+        "wealth": "中",
+        "fusion_score": 58,
+        "social_mobility": "极高 - 寒门贵子"
+      }
+    },
+    {
+      "key": "DM=水|DOM=水|MISS=()|ALL=('土', '木', '水', '火', '金')",
+      "bazi_summary": {
+        "day_master": "水",
+        "dominant": "水",
+        "missing": [],
+        "counts": {
+          "土": 2.5,
+          "水": 2.5,
+          "金": 1,
+          "木": 1.0,
+          "火": 1.0
+        }
+      },
+      "outcomes": {
+        "career_domain": "science",
+        "wealth_level": "中",
+        "lifespan": 76,
+        "social_mobility": "高",
+        "accuracy_rating": 7,
+        "user_comment": "理论物理学家"
+      }
+    },
+    {
+      "key": "DM=火|DOM=火|MISS=()|ALL=('土', '木', '水', '火', '金')",
+      "bazi_summary": {
+        "day_master": "火",
+        "dominant": "火",
+        "missing": [],
+        "counts": {
+          "火": 3.5,
+          "土": 3.0,
+          "水": 1.5,
+          "金": 1.0,
+          "木": 0.5
+        }
+      },
+      "outcomes": {
+        "career_domain": "science",
+        "wealth_level": "中",
+        "lifespan": 84,
+        "social_mobility": "中",
+        "accuracy_rating": 8,
+        "user_comment": ""
+      }
+    }
+  ]
+}

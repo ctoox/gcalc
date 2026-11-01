@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人物库 - gcalc Global</title>
+    <link rel="stylesheet" href="/static/cosmic.css">
+    <style>
+        .stats-bar { display: flex; gap: 2rem; margin: 1rem 0; flex-wrap: wrap; }
+        .stat-box { background: rgba(255,255,255,0.05); border: 1px solid rgba(100,150,255,0.2); border-radius: 8px; padding: 0.8rem 1.5rem; text-align: center; }
+        .stat-box .num { font-size: 1.8rem; font-weight: bold; color: #88ccff; }
+        .stat-box .label { font-size: 0.8rem; color: #8899cc; }
+        .filter-bar { display: flex; gap: 0.5rem; margin: 1rem 0; flex-wrap: wrap; }
+        .filter-bar input, .filter-bar select { background: rgba(255,255,255,0.08); border: 1px solid rgba(100,150,255,0.3); border-radius: 6px; padding: 0.5rem; color: #fff; }
+        .filter-bar input { min-width: 200px; }
+        .filter-bar button { background: linear-gradient(135deg, #4466cc, #6644cc); color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: 0.9rem; }
+        th, td { padding: 0.5rem 0.8rem; text-align: left; border-bottom: 1px solid rgba(100,150,255,0.1); }
+        th { color: #88bbff; font-weight: 600; cursor: pointer; position: sticky; top: 0; background: #0a0a2e; }
+        th:hover { color: #aaddff; }
+        tr:hover { background: rgba(100,150,255,0.08); }
+        .pagination { display: flex; gap: 0.5rem; justify-content: center; margin: 1.5rem 0; align-items: center; }
+        .pagination button { background: rgba(255,255,255,0.08); border: 1px solid rgba(100,150,255,0.3); border-radius: 4px; padding: 0.3rem 0.8rem; color: #e0e0ff; cursor: pointer; }
+        .pagination button:disabled { opacity: 0.3; cursor: default; }
+        .pagination .info { color: #8899cc; font-size: 0.85rem; }
+        .badge { display: inline-block; background: rgba(100,150,255,0.15); border-radius: 10px; padding: 0.1rem 0.5rem; font-size: 0.75rem; color: #88bbff; }
+        .loading { text-align: center; padding: 3rem; color: #8899cc; }
+        .verified { color: #66cc88; }
+        @media (max-width: 768px) {
+            .filter-bar { flex-direction: column; }
+            .filter-bar input { min-width: auto; }
+            table { font-size: 0.75rem; }
+            th, td { padding: 0.3rem 0.4rem; }
+        }
+    </style>
+</head>
+<body class="cosmic-theme">
+    <div class="stars"></div>
+    <div class="container">
+        <header style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;">
+            <h1 style="color:#fff;text-shadow:0 0 20px rgba(100,150,255,0.8);">Global Person Database</h1>
+            <div style="display:flex;gap:1rem;align-items:center;flex-wrap:wrap;">
+                <span id="collector-status" style="font-size:0.85rem;color:#8899cc;">collector: --</span>
+                <a href="/" style="color:#6688cc;">← Home</a>
+            </div>
+        </header>
+
+        <div id="collector-panel" style="display:flex;gap:0.5rem;margin:0.5rem 0;padding:0.5rem 1rem;background:rgba(255,255,255,0.03);border:1px solid rgba(100,150,255,0.15);border-radius:8px;align-items:center;flex-wrap:wrap;font-size:0.85rem;">
+            <button id="pause-btn" onclick="togglePause()" style="background:rgba(255,100,100,0.2);border:1px solid rgba(255,100,100,0.3);border-radius:4px;padding:0.3rem 0.8rem;color:#ff8888;cursor:pointer;">⏸ Pause</button>
+            <button id="stop-btn" onclick="stopCollector()" style="background:rgba(200,50,50,0.25);border:1px solid rgba(200,50,50,0.4);border-radius:4px;padding:0.3rem 0.8rem;color:#ff6666;cursor:pointer;">⏹ Stop</button>
+            <span style="color:#667799;">|</span>
+            <span style="color:#8899cc;">Speed:</span>
+            <button onclick="setProfile(20,1)" style="background:rgba(255,50,50,0.2);border:1px solid rgba(255,50,50,0.3);border-radius:4px;padding:0.2rem 0.6rem;color:#ff6666;cursor:pointer;" title="20 threads, 1s delay = 20/s">Ludicrous</button>
+            <button onclick="setProfile(10,3)" style="background:rgba(255,150,50,0.2);border:1px solid rgba(255,150,50,0.3);border-radius:4px;padding:0.2rem 0.6rem;color:#ffaa66;cursor:pointer;" title="10 threads, 3s delay = 3.3/s">Fast</button>
+            <button onclick="setProfile(10,5)" style="background:rgba(100,255,100,0.15);border:1px solid rgba(100,255,100,0.2);border-radius:4px;padding:0.2rem 0.6rem;color:#88cc88;cursor:pointer;" title="10 threads, 5s delay = 2/s">Normal</button>
+            <button onclick="setProfile(5,10)" style="background:rgba(100,150,255,0.15);border:1px solid rgba(100,150,255,0.2);border-radius:4px;padding:0.2rem 0.6rem;color:#88bbff;cursor:pointer;" title="5 threads, 10s delay = 0.5/s">Slow</button>
+            <button onclick="setProfile(2,30)" style="background:rgba(100,100,255,0.15);border:1px solid rgba(100,100,255,0.2);border-radius:4px;padding:0.2rem 0.6rem;color:#8888ff;cursor:pointer;" title="2 threads, 30s delay = 0.07/s">Glacial</button>
+            <span style="color:#667799;">|</span>
+            <span style="color:#8899cc;">Offset:</span>
+            <input type="number" id="offset-input" value="0" style="width:80px;background:rgba(255,255,255,0.08);border:1px solid rgba(100,150,255,0.3);border-radius:4px;padding:0.2rem 0.4rem;color:#fff;" placeholder="0">
+            <button onclick="seekOffset()" style="background:rgba(100,150,255,0.15);border:1px solid rgba(100,150,255,0.2);border-radius:4px;padding:0.2rem 0.6rem;color:#88bbff;cursor:pointer;">Seek</button>
+            <span style="color:#667799;">|</span>
+            <span style="color:#8899cc;" id="offset-display">offset: 0</span>
+        </div>
+
+        <div id="stats" class="stats-bar"></div>
+        <div id="quality-stats" style="display:flex;gap:1rem;margin:0.5rem 0;padding:0.5rem 1rem;background:rgba(100,255,100,0.03);border:1px solid rgba(100,255,100,0.15);border-radius:8px;font-size:0.85rem;flex-wrap:wrap;">
+            <span style="color:#88cc88;">Quality:</span>
+            <span id="q-chinese" style="color:#ffaa44;">--</span>
+            <span id="q-verified" style="color:#88cc88;">--</span>
+            <span id="q-disputed" style="color:#ff6666;">--</span>
+            <span id="q-confidence" style="color:#88bbff;">--</span>
+            <span id="q-training" style="color:#aa88ff;">--</span>
+        </div>
+
+        <div class="filter-bar">
+            <input type="text" id="search" placeholder="Search by name..." oninput="searchPersons()">
+            <input type="text" id="nation-filter" placeholder="Nationality..." oninput="searchPersons()" style="width:130px">
+            <input type="text" id="occ-filter" placeholder="Occupation..." oninput="searchPersons()" style="width:130px">
+            <input type="number" id="year-from" placeholder="Year from" oninput="searchPersons()" style="width:100px">
+            <input type="number" id="year-to" placeholder="Year to" oninput="searchPersons()" style="width:100px">
+            <select id="sort" onchange="searchPersons()">
+                <option value="name">Sort: Name</option>
+                <option value="year">Sort: Year</option>
+            </select>
+            <button onclick="searchPersons()">Search</button>
+        </div>
+
+        <div style="overflow-x:auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th onclick="sortBy('name')">Name</th>
+                        <th onclick="sortBy('year')">Birth</th>
+                        <th>Death</th>
+                        <th>Occupation</th>
+                        <th>Nationality</th>
+                        <th>Source</th>
+                        <th>Quality</th>
+                    </tr>
+                </thead>
+                <tbody id="person-tbody">
+                    <tr><td colspan="7" class="loading">Loading...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div id="pagination" class="pagination"></div>
+        <p id="status-line" style="text-align:center;color:#556677;font-size:0.8rem;"></p>
+    </div>
+
+    <script>
+        let PAGE = 1;
+        let TOTAL = 0;
+        let SORT = 'name';
+        let _busy = {};
+
+        function $(id) { return document.getElementById(id); }
+
+        function debounce(fn, ms) {
+            let timer;
+            return function(...args) {
+                clearTimeout(timer);
+                timer = setTimeout(() => fn.apply(this, args), ms);
+            };
+        }
+
+        function guard(btnId, fn) {
+            return async function(...args) {
+                if (_busy[btnId]) return;
+                _busy[btnId] = true;
+                const btn = document.getElementById(btnId);
+                if (btn) btn.disabled = true;
+                try { await fn.apply(this, args); } finally {
+                    _busy[btnId] = false;
+                    if (btn) btn.disabled = false;
+                }
+            };
+        }
+
+        function searchPersons() {
+            PAGE = 1;
+            loadPersons();
+        }
+
+        function sortBy(field) {
+            SORT = field;
+            loadPersons();
+        }
+
+        async function loadPersons() {
+            const tbody = $('person-tbody');
+            tbody.innerHTML = '<tr><td colspan="7" class="loading">Loading...</td></tr>';
+
+            const q = $('search').value;
+            const nat = $('nation-filter').value;
+            const occ = $('occ-filter').value;
+            const yf = $('year-from').value;
+            const yt = $('year-to').value;
+            const sort = $('sort').value;
+
+            let url = `/api/persons?page=${PAGE}&per_page=50&sort=${sort}`;
+            if (q) url += `&q=${encodeURIComponent(q)}`;
+            if (nat) url += `&nationality=${encodeURIComponent(nat)}`;
+            if (occ) url += `&occupation=${encodeURIComponent(occ)}`;
+            if (yf) url += `&year_from=${yf}`;
+            if (yt) url += `&year_to=${yt}`;
+
+            try {
+                const resp = await fetch(url);
+                const data = await resp.json();
+                TOTAL = data.total;
+                const filtered = data.filtered;
+
+                $('status-line').textContent = `Showing ${filtered} of ${TOTAL} total persons`;
+
+                if (data.persons.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="8" class="loading">No persons found</td></tr>';
+                } else {
+                    tbody.innerHTML = data.persons.map((p, i) => {
+                        const idx = (data.page - 1) * data.per_page + i + 1;
+                        const by = p.birth_year || '?';
+                        const bm = p.birth_month ? `/${p.birth_month}` : '';
+                        const bd = p.birth_day ? `/${p.birth_day}` : '';
+                        const dy = p.death_year || '-';
+                        const dm = p.death_month ? `/${p.death_month}` : '';
+                        const dd = p.death_day ? `/${p.death_day}` : '';
+                        const verified = p.verified ? '<span class="verified">✓</span>' : '';
+                        const conf = p.confidence || 1.0;
+                        const confColor = conf >= 0.9 ? '#88cc88' : (conf >= 0.7 ? '#ffaa44' : '#ff6666');
+                        const disputed = p.disputed ? '<span style="color:#ff6666;">⚠</span>' : '';
+                        const tags = (p.quality_tags || []).map(t => `<span class="badge" style="font-size:0.65rem;margin-left:2px;">${t}</span>`).join('');
+                        return `<tr>
+                            <td>${idx}</td>
+                            <td><strong>${p.name}</strong> ${verified} ${disputed}</td>
+                            <td>${by}${bm}${bd}</td>
+                            <td>${dy}${dm}${dd}</td>
+                            <td><span class="badge">${(p.occupation || '?').slice(0,30)}</span></td>
+                            <td>${p.nationality || ''}</td>
+                            <td style="font-size:0.75rem;color:#667799;">${(p.source || '').slice(0,15)}</td>
+                            <td style="font-size:0.75rem;"><span style="color:${confColor};">${(conf*100).toFixed(0)}%</span>${tags}</td>
+                        </tr>`;
+                    }).join('');
+                }
+
+                const pages = data.pages;
+                const pg = $('pagination');
+                pg.innerHTML = `
+                    <button onclick="goPage(${PAGE - 1})" ${PAGE <= 1 ? 'disabled' : ''}>← Prev</button>
+                    <span class="info">Page ${PAGE} / ${pages || 1}</span>
+                    <button onclick="goPage(${PAGE + 1})" ${PAGE >= pages ? 'disabled' : ''}>Next →</button>
+                `;
+            } catch (err) {
+                tbody.innerHTML = `<tr><td colspan="7" class="loading">Error: ${err.message}</td></tr>`;
+            }
+        }
+
+        function goPage(p) {
+            if (p < 1) return;
+            PAGE = p;
+            loadPersons();
+        }
+
+        async function loadStats() {
+            try {
+                const resp = await fetch('/api/persons/stats');
+                const s = await resp.json();
+                const tags = s.quality_tags || {};
+                const tagStr = Object.entries(tags).slice(0,3).map(([k,v]) => `${k}:${v}`).join(', ');
+                $('stats').innerHTML = `
+                    <div class="stat-box"><div class="num">${s.total.toLocaleString()}</div><div class="label">Total Persons</div></div>
+                    <div class="stat-box"><div class="num">${s.occupations}</div><div class="label">Occupations</div></div>
+                    <div class="stat-box"><div class="num">${s.nationalities}</div><div class="label">Nationalities</div></div>
+                    <div class="stat-box"><div class="num" style="font-size:1rem;">${tagStr || 'none'}</div><div class="label">Edge Cases</div></div>
+                `;
+            } catch(e) {}
+        }
+
+        loadStats();
+        loadPersons();
+        loadCollectorStatus();
+        loadQualityStats();
+        setInterval(loadPersons, 30000);
+        setInterval(loadStats, 60000);
+        setInterval(loadCollectorStatus, 5000);
+        setInterval(loadQualityStats, 10000);
+
+        async function loadQualityStats() {
+            try {
+                const resp = await fetch('/api/collector/status');
+                const s = await resp.json();
+                const q = s.quality || {};
+                document.getElementById('q-chinese').textContent = `CN: ${q.chinese || 0}`;
+                document.getElementById('q-verified').textContent = `Verified: ${q.verified || 0}`;
+                document.getElementById('q-disputed').textContent = `Disputed: ${q.disputed || 0}`;
+                document.getElementById('q-confidence').textContent = `Conf: ${((q.avg_confidence || 0)*100).toFixed(1)}%`;
+                document.getElementById('q-training').textContent = `Trained: ${s.training_total || 0}/${s.total_collected || 0}`;
+            } catch(e) {}
+        }
+
+        async function loadCollectorStatus() {
+            try {
+                const resp = await fetch('/api/collector/status');
+                const s = await resp.json();
+                const statusEl = document.getElementById('collector-status');
+                const state = s.stop ? '⏹ STOPPED' : (s.paused ? '⏸ PAUSED' : '▶ RUNNING');
+                const rate = s.rate_label || 'normal';
+                const threads = s.threads || 10;
+                const sc = s.stop ? '#888' : (s.paused ? '#f88' : '#8c8');
+                const q = s.quality || {};
+                const conf = q.avg_confidence ? (q.avg_confidence * 100).toFixed(0) : '?';
+                const china = q.chinese || 0;
+                const disputed = q.disputed || 0;
+                statusEl.innerHTML = `<span style="color:${sc}">${state}</span> | ${s.total_collected} persons | ${china} CN | conf:${conf}% | ${disputed} disputed | ${s.threads}thr×${s.delay_seconds}s | ${rate}`;
+                document.getElementById('offset-display').textContent = `offset: ${s.current_offset}`;
+                const btn = document.getElementById('pause-btn');
+                if (s.stop) {
+                    btn.disabled = true;
+                    btn.textContent = '⏹ Stopped';
+                    btn.style.background = 'rgba(100,100,100,0.15)';
+                    btn.style.color = '#888';
+                    btn.style.borderColor = 'rgba(100,100,100,0.2)';
+                } else {
+                    btn.disabled = false;
+                    btn.textContent = s.paused ? '▶ Resume' : '⏸ Pause';
+                    btn.style.background = s.paused ? 'rgba(100,255,100,0.2)' : 'rgba(255,100,100,0.2)';
+                    btn.style.color = s.paused ? '#88cc88' : '#ff8888';
+                    btn.style.borderColor = s.paused ? 'rgba(100,255,100,0.3)' : 'rgba(255,100,100,0.3)';
+                }
+            } catch(e) {}
+        }
+            } catch(e) {}
+        }
+
+        async function _togglePause() {
+            const s = await (await fetch('/api/collector/status')).json();
+            await fetch(s.paused ? '/api/collector/resume' : '/api/collector/pause', {method:'POST'});
+            await loadCollectorStatus();
+        }
+
+        async function _setProfile(threads, delay) {
+            await fetch('/api/collector/control', {
+                method: 'PUT',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({threads: threads, delay: delay, paused: false})
+            });
+            await loadCollectorStatus();
+        }
+
+        async function _seekOffset() {
+            const offset = parseInt(document.getElementById('offset-input').value) || 0;
+            await fetch('/api/collector/control', {
+                method: 'PUT',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({max_offset: 0, paused: false})
+            });
+            await fetch('/api/collector/control', {
+                method: 'PUT',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({max_offset: offset})
+            });
+            await loadCollectorStatus();
+        }
+
+        async function _stopCollector() {
+            await fetch('/api/collector/stop', {method:'POST'});
+            await loadCollectorStatus();
+        }
+
+        const togglePause = guard('pause-btn', debounce(_togglePause, 300));
+        const setProfile = guard('pause-btn', debounce(_setProfile, 300));
+        const seekOffset = guard('pause-btn', debounce(_seekOffset, 300));
+        const stopCollector = guard('stop-btn', debounce(_stopCollector, 300));
+    </script>
+</body>
+</html>

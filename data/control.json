@@ -1,0 +1,12 @@
+{
+  "paused": false,
+  "delay_seconds": 5.0,
+  "target_total": 0,
+  "max_offset": 0,
+  "updated": "2026-07-27 07:17:06.835542",
+  "threads": 10,
+  "stop": false,
+  "offset": 2870,
+  "total": 2476,
+  "batch_speed": "0.4/s"
+}

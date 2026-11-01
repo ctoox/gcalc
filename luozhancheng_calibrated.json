@@ -1,0 +1,8075 @@
+{
+  "metadata": {
+    "name": "罗展程",
+    "birth": "1997年6月22日 1时",
+    "gender": "男",
+    "age": 29,
+    "current_year": 2026,
+    "generated": "2026-07-27"
+  },
+  "bazi_summary": {
+    "八字": "丁丑 己亥 辛巳 庚丑",
+    "日主": "金",
+    "五行": {
+      "旺": "金",
+      "缺": [],
+      "分布": {
+        "金": 3.5,
+        "土": 2.5,
+        "火": 1.5,
+        "水": 1.5,
+        "木": 0.5
+      }
+    },
+    "藏干": [
+      "土",
+      "水",
+      "金",
+      "水",
+      "木",
+      "火",
+      "金",
+      "土",
+      "土",
+      "水",
+      "金"
+    ],
+    "纳音": "",
+    "性格": "果断刚毅, 有魄力, 善于决策, 但易刚愎"
+  },
+  "fusion": {
+    "score": 73.5,
+    "east": 80.0,
+    "west": 82,
+    "num": 50,
+    "stat": 54.7,
+    "accuracy": 55.66
+  },
+  "da_yun": [
+    {
+      "大运": "戊子",
+      "start_age": 0,
+      "start_year": 1997,
+      "direction": "逆",
+      "element_gan": "土",
+      "element_zhi": "水"
+    },
+    {
+      "大运": "己亥",
+      "start_age": 10,
+      "start_year": 2007,
+      "direction": "逆",
+      "element_gan": "土",
+      "element_zhi": "水"
+    },
+    {
+      "大运": "庚戌",
+      "start_age": 20,
+      "start_year": 2017,
+      "direction": "逆",
+      "element_gan": "金",
+      "element_zhi": "土"
+    },
+    {
+      "大运": "辛酉",
+      "start_age": 30,
+      "start_year": 2027,
+      "direction": "逆",
+      "element_gan": "金",
+      "element_zhi": "金"
+    },
+    {
+      "大运": "壬申",
+      "start_age": 40,
+      "start_year": 2037,
+      "direction": "逆",
+      "element_gan": "水",
+      "element_zhi": "金"
+    },
+    {
+      "大运": "癸未",
+      "start_age": 50,
+      "start_year": 2047,
+      "direction": "逆",
+      "element_gan": "水",
+      "element_zhi": "土"
+    },
+    {
+      "大运": "甲午",
+      "start_age": 60,
+      "start_year": 2057,
+      "direction": "逆",
+      "element_gan": "木",
+      "element_zhi": "火"
+    },
+    {
+      "大运": "乙巳",
+      "start_age": 70,
+      "start_year": 2067,
+      "direction": "逆",
+      "element_gan": "木",
+      "element_zhi": "火"
+    }
+  ],
+  "career": {
+    "affinity": [
+      "法律",
+      "金融",
+      "投资",
+      "医疗外科",
+      "机械",
+      "军警",
+      "咨询"
+    ],
+    "western_hints": [
+      "科技",
+      "研发",
+      "社会公益",
+      "艺术",
+      "航天"
+    ],
+    "overlap": []
+  },
+  "wealth": {
+    "level": "中",
+    "score": 40.0
+  },
+  "lifespan_estimate": 76,
+  "family": {
+    "day_master": "金",
+    "bazi": "丁丑 己亥 辛巳 庚丑",
+    "parent_year_zhi": "丑",
+    "parent_element": "土",
+    "parent_relationship_to_dm": "生我",
+    "parent_analysis": "父母生助命主,家庭支持充足,有福荫",
+    "sibling_month_zhi": "亥",
+    "sibling_element": "水",
+    "sibling_relationship": "我生",
+    "childhood_score": 55,
+    "childhood_description": "童年平顺,有快乐也有挑战",
+    "hidden_clues": [
+      "无明显隐藏迹象"
+    ],
+    "family_secrets_known": "无",
+    "family_wealth": "富裕",
+    "social_mobility": "中",
+    "personality_formation": [
+      "父母滋养支持,性格温和自信"
+    ],
+    "nurture_effect": "中: 先天后天均衡影响",
+    "actual_family_wealth": "负债",
+    "actual_social_mobility": "低",
+    "actual_childhood_score": 35,
+    "father_side_note": "入赘,好赌,负债"
+  },
+  "western": {
+    "sun": "水瓶",
+    "moon": "白羊",
+    "rising": "巨蟹",
+    "element_balance": {
+      "水": "41%",
+      "土": "29%",
+      "风": "18%",
+      "火": "12%"
+    }
+  },
+  "yearly_timeline": [
+    {
+      "year": 1997,
+      "age": 1,
+      "gan_zhi": "丁丑",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "精细，积累，流年克日主",
+        "财富": "细水长流，正财稳",
+        "感情": "含蓄，平淡",
+        "健康": "眼目保养，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 1998,
+      "age": 2,
+      "gan_zhi": "戊寅",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，突破，流年助日主",
+        "财富": "积累，偏财",
+        "感情": "平淡，热情",
+        "健康": "脾胃调理，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 1999,
+      "age": 3,
+      "gan_zhi": "己卯",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "规划，发展，流年助日主",
+        "财富": "储蓄，正财",
+        "感情": "务实，桃花旺",
+        "健康": "皮肤注意，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 85,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2000,
+      "age": 4,
+      "gan_zhi": "庚辰",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，转折",
+        "财富": "大刀阔斧，守财",
+        "感情": "果断，低调",
+        "健康": "呼吸系统，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2001,
+      "age": 5,
+      "gan_zhi": "辛巳",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "冲月令"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，加速",
+        "财富": "偏财机遇，暴发",
+        "感情": "细腻，激情",
+        "健康": "肺经保养，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2002,
+      "age": 6,
+      "gan_zhi": "壬午",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，高峰",
+        "财富": "大进大出，旺财",
+        "感情": "浪漫，热烈",
+        "健康": "肾水调理，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2003,
+      "age": 7,
+      "gan_zhi": "癸未",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "岁君冲年"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "内收，调整",
+        "财富": "隐秘财，稳中求进",
+        "感情": "敏感，温和",
+        "健康": "泌尿系统，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2004,
+      "age": 8,
+      "gan_zhi": "甲申",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "开创，变革",
+        "财富": "正财，偏财机遇",
+        "感情": "桃花淡，追求",
+        "健康": "肝胆需养，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2005,
+      "age": 9,
+      "gan_zhi": "乙酉",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "戊子",
+        "start_age": 0,
+        "start_year": 1997,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "协作，精致",
+        "财富": "偏财，积蓄",
+        "感情": "人缘佳，含蓄",
+        "健康": "注意筋骨，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2006,
+      "age": 10,
+      "gan_zhi": "丙戌",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，收官，流年克日主",
+        "财富": "暴发，暗财",
+        "感情": "热情，孤独",
+        "健康": "心血管注意，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2007,
+      "age": 11,
+      "gan_zhi": "丁亥",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "日犯岁君",
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 45,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "精细，酝酿，流年克日主",
+        "财富": "细水长流，暗流",
+        "感情": "含蓄，暧昧",
+        "健康": "眼目保养，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天克地冲: 本年大凶,易有意外",
+          "severity": "high"
+        },
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 6,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "disaster",
+          "text": "天克地冲: 本年大凶,谨慎行事",
+          "severity": "critical"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 47.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2008,
+      "age": 12,
+      "gan_zhi": "戊子",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，变动，流年助日主",
+        "财富": "积累，暗财",
+        "感情": "平淡，桃花",
+        "健康": "脾胃调理，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2009,
+      "age": 13,
+      "gan_zhi": "己丑",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "规划，积累，流年助日主",
+        "财富": "储蓄，正财稳",
+        "感情": "务实，平淡",
+        "健康": "皮肤注意，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2010,
+      "age": 14,
+      "gan_zhi": "庚寅",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，突破",
+        "财富": "大刀阔斧，偏财",
+        "感情": "果断，热情",
+        "健康": "呼吸系统，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2011,
+      "age": 15,
+      "gan_zhi": "辛卯",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，发展",
+        "财富": "偏财机遇，正财",
+        "感情": "细腻，桃花旺",
+        "健康": "肺经保养，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 85,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2012,
+      "age": 16,
+      "gan_zhi": "壬辰",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，转折",
+        "财富": "大进大出，守财",
+        "感情": "浪漫，低调",
+        "健康": "肾水调理，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2013,
+      "age": 17,
+      "gan_zhi": "癸巳",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "冲月令"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "内收，加速",
+        "财富": "隐秘财，暴发",
+        "感情": "敏感，激情",
+        "健康": "泌尿系统，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2014,
+      "age": 18,
+      "gan_zhi": "甲午",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，高峰",
+        "财富": "正财，旺财",
+        "感情": "桃花淡，热烈",
+        "健康": "肝胆需养，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2015,
+      "age": 19,
+      "gan_zhi": "乙未",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "己亥",
+        "start_age": 10,
+        "start_year": 2007,
+        "direction": "逆",
+        "element_gan": "土",
+        "element_zhi": "水"
+      },
+      "conflicts": [
+        "岁君冲年",
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "协作，调整",
+        "财富": "偏财，稳中求进",
+        "感情": "人缘佳，温和",
+        "健康": "注意筋骨，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "当兵入伍",
+      "calibration": "MATCH"
+    },
+    {
+      "year": 2016,
+      "age": 20,
+      "gan_zhi": "丙申",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "表现，变革，流年克日主",
+        "财富": "暴发，偏财机遇",
+        "感情": "热情，追求",
+        "健康": "心血管注意，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2017,
+      "age": 21,
+      "gan_zhi": "丁酉",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "精细，精致，流年克日主",
+        "财富": "细水长流，积蓄",
+        "感情": "含蓄，含蓄",
+        "健康": "眼目保养，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "当兵结束, 二叔外公去世",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2018,
+      "age": 22,
+      "gan_zhi": "戊戌",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，收官，流年助日主",
+        "财富": "积累，暗财",
+        "感情": "平淡，孤独",
+        "健康": "脾胃调理，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "红鸾星动之年，婚缘机会",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "上大专",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2019,
+      "age": 23,
+      "gan_zhi": "己亥",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "日犯岁君"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 5,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "规划，酝酿，流年助日主",
+        "财富": "储蓄，暗流",
+        "感情": "务实，暧昧",
+        "健康": "皮肤注意，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 67.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2020,
+      "age": 24,
+      "gan_zhi": "庚子",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，变动",
+        "财富": "大刀阔斧，暗财",
+        "感情": "果断，桃花",
+        "健康": "呼吸系统，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "运维工程师(中长康达外包驻场怡园小学)",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2021,
+      "age": 25,
+      "gan_zhi": "辛丑",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "转型，积累",
+        "财富": "偏财机遇，正财稳",
+        "感情": "细腻，平淡",
+        "健康": "肺经保养，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2022,
+      "age": 26,
+      "gan_zhi": "壬寅",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，突破",
+        "财富": "大进大出，偏财",
+        "感情": "浪漫，热情",
+        "健康": "肾水调理，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "红鸾星动之年，婚缘机会",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "运维工程师(天河智慧城南方基地)",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2023,
+      "age": 27,
+      "gan_zhi": "癸卯",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "内收，发展",
+        "财富": "隐秘财，正财",
+        "感情": "敏感，桃花旺",
+        "健康": "泌尿系统，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 85,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "AI盛行炒币有亏有赚",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2024,
+      "age": 28,
+      "gan_zhi": "甲辰",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，转折",
+        "财富": "正财，守财",
+        "感情": "桃花淡，低调",
+        "健康": "肝胆需养，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2025,
+      "age": 29,
+      "gan_zhi": "乙巳",
+      "is_past": true,
+      "is_current": false,
+      "is_future": false,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "庚戌",
+        "start_age": 20,
+        "start_year": 2017,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "冲月令",
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "协作，加速",
+        "财富": "偏财，暴发",
+        "感情": "人缘佳，激情",
+        "健康": "注意筋骨，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "开始送外卖",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2026,
+      "age": 30,
+      "gan_zhi": "丙午",
+      "is_past": true,
+      "is_current": true,
+      "is_future": false,
+      "incalendar": true,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，高峰，流年克日主",
+        "财富": "暴发，旺财",
+        "感情": "热情，热烈",
+        "健康": "心血管注意，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "红鸾星动之年，婚缘机会",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "送外卖日赚不到100,家里负债",
+      "calibration": "PARTIAL"
+    },
+    {
+      "year": 2027,
+      "age": 31,
+      "gan_zhi": "丁未",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "岁君冲年",
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "精细，调整，流年克日主",
+        "财富": "细水长流，稳中求进",
+        "感情": "含蓄，温和",
+        "健康": "眼目保养，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2028,
+      "age": 32,
+      "gan_zhi": "戊申",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "稳重，变革，流年助日主",
+        "财富": "积累，偏财机遇",
+        "感情": "平淡，追求",
+        "健康": "脾胃调理，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2029,
+      "age": 33,
+      "gan_zhi": "己酉",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "规划，精致，流年助日主",
+        "财富": "储蓄，积蓄",
+        "感情": "务实，含蓄",
+        "健康": "皮肤注意，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2030,
+      "age": 34,
+      "gan_zhi": "庚戌",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，收官",
+        "财富": "大刀阔斧，暗财",
+        "感情": "果断，孤独",
+        "健康": "呼吸系统，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "红鸾星动之年，婚缘机会",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2031,
+      "age": 35,
+      "gan_zhi": "辛亥",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日犯岁君"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 5,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，酝酿",
+        "财富": "偏财机遇，暗流",
+        "感情": "细腻，暧昧",
+        "健康": "肺经保养，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 67.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2032,
+      "age": 36,
+      "gan_zhi": "壬子",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，变动",
+        "财富": "大进大出，暗财",
+        "感情": "浪漫，桃花",
+        "健康": "肾水调理，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2033,
+      "age": 37,
+      "gan_zhi": "癸丑",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "内收，积累",
+        "财富": "隐秘财，正财稳",
+        "感情": "敏感，平淡",
+        "健康": "泌尿系统，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2034,
+      "age": 38,
+      "gan_zhi": "甲寅",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，突破",
+        "财富": "正财，偏财",
+        "感情": "桃花淡，热情",
+        "健康": "肝胆需养，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "红鸾星动之年，婚缘机会",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2035,
+      "age": 39,
+      "gan_zhi": "乙卯",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "辛酉",
+        "start_age": 30,
+        "start_year": 2027,
+        "direction": "逆",
+        "element_gan": "金",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "协作，发展",
+        "财富": "偏财，正财",
+        "感情": "人缘佳，桃花旺",
+        "健康": "注意筋骨，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2036,
+      "age": 40,
+      "gan_zhi": "丙辰",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，转折，流年克日主",
+        "财富": "暴发，守财",
+        "感情": "热情，低调",
+        "健康": "心血管注意，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2037,
+      "age": 41,
+      "gan_zhi": "丁巳",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "冲月令",
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "精细，加速，流年克日主",
+        "财富": "细水长流，暴发",
+        "感情": "含蓄，激情",
+        "健康": "眼目保养，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2038,
+      "age": 42,
+      "gan_zhi": "戊午",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，高峰，流年助日主",
+        "财富": "积累，旺财",
+        "感情": "平淡，热烈",
+        "健康": "脾胃调理，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2039,
+      "age": 43,
+      "gan_zhi": "己未",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "岁君冲年"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "规划，调整，流年助日主",
+        "财富": "储蓄，稳中求进",
+        "感情": "务实，温和",
+        "健康": "皮肤注意，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2040,
+      "age": 44,
+      "gan_zhi": "庚申",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "变革，变革",
+        "财富": "大刀阔斧，偏财机遇",
+        "感情": "果断，追求",
+        "健康": "呼吸系统，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2041,
+      "age": 45,
+      "gan_zhi": "辛酉",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，精致",
+        "财富": "偏财机遇，积蓄",
+        "感情": "细腻，含蓄",
+        "健康": "肺经保养，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2042,
+      "age": 46,
+      "gan_zhi": "壬戌",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，收官",
+        "财富": "大进大出，暗财",
+        "感情": "浪漫，孤独",
+        "健康": "肾水调理，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2043,
+      "age": 47,
+      "gan_zhi": "癸亥",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日犯岁君"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 5,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "内收，酝酿",
+        "财富": "隐秘财，暗流",
+        "感情": "敏感，暧昧",
+        "健康": "泌尿系统，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 67.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2044,
+      "age": 48,
+      "gan_zhi": "甲子",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，变动",
+        "财富": "正财，暗财",
+        "感情": "桃花淡，桃花",
+        "健康": "肝胆需养，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2045,
+      "age": 49,
+      "gan_zhi": "乙丑",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "壬申",
+        "start_age": 40,
+        "start_year": 2037,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "金"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "协作，积累",
+        "财富": "偏财，正财稳",
+        "感情": "人缘佳，平淡",
+        "健康": "注意筋骨，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2046,
+      "age": 50,
+      "gan_zhi": "丙寅",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，突破，流年克日主",
+        "财富": "暴发，偏财",
+        "感情": "热情，热情",
+        "健康": "心血管注意，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2047,
+      "age": 51,
+      "gan_zhi": "丁卯",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "精细，发展，流年克日主",
+        "财富": "细水长流，正财",
+        "感情": "含蓄，桃花旺",
+        "健康": "眼目保养，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2048,
+      "age": 52,
+      "gan_zhi": "戊辰",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，转折，流年助日主",
+        "财富": "积累，守财",
+        "感情": "平淡，低调",
+        "健康": "脾胃调理，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2049,
+      "age": 53,
+      "gan_zhi": "己巳",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "冲月令"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "规划，加速，流年助日主",
+        "财富": "储蓄，暴发",
+        "感情": "务实，激情",
+        "健康": "皮肤注意，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2050,
+      "age": 54,
+      "gan_zhi": "庚午",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，高峰",
+        "财富": "大刀阔斧，旺财",
+        "感情": "果断，热烈",
+        "健康": "呼吸系统，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2051,
+      "age": 55,
+      "gan_zhi": "辛未",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "岁君冲年"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "转型，调整",
+        "财富": "偏财机遇，稳中求进",
+        "感情": "细腻，温和",
+        "健康": "肺经保养，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2052,
+      "age": 56,
+      "gan_zhi": "壬申",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "扩张，变革",
+        "财富": "大进大出，偏财机遇",
+        "感情": "浪漫，追求",
+        "健康": "肾水调理，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2053,
+      "age": 57,
+      "gan_zhi": "癸酉",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "内收，精致",
+        "财富": "隐秘财，积蓄",
+        "感情": "敏感，含蓄",
+        "健康": "泌尿系统，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2054,
+      "age": 58,
+      "gan_zhi": "甲戌",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，收官",
+        "财富": "正财，暗财",
+        "感情": "桃花淡，孤独",
+        "健康": "肝胆需养，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2055,
+      "age": 59,
+      "gan_zhi": "乙亥",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "癸未",
+        "start_age": 50,
+        "start_year": 2047,
+        "direction": "逆",
+        "element_gan": "水",
+        "element_zhi": "土"
+      },
+      "conflicts": [
+        "日犯岁君",
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 5,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "协作，酝酿",
+        "财富": "偏财，暗流",
+        "感情": "人缘佳，暧昧",
+        "健康": "注意筋骨，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "job_change",
+          "text": "驿马星动或日犯岁君，事业变动年",
+          "score": 5,
+          "severity": "high"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 67.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2056,
+      "age": 60,
+      "gan_zhi": "丙子",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，变动，流年克日主",
+        "财富": "暴发，暗财",
+        "感情": "热情，桃花",
+        "健康": "心血管注意，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2057,
+      "age": 61,
+      "gan_zhi": "丁丑",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "精细，积累，流年克日主",
+        "财富": "细水长流，正财稳",
+        "感情": "含蓄，平淡",
+        "健康": "眼目保养，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2058,
+      "age": 62,
+      "gan_zhi": "戊寅",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，突破，流年助日主",
+        "财富": "积累，偏财",
+        "感情": "平淡，热情",
+        "健康": "脾胃调理，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2059,
+      "age": 63,
+      "gan_zhi": "己卯",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "规划，发展，流年助日主",
+        "财富": "储蓄，正财",
+        "感情": "务实，桃花旺",
+        "健康": "皮肤注意，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 85,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2060,
+      "age": 64,
+      "gan_zhi": "庚辰",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，转折",
+        "财富": "大刀阔斧，守财",
+        "感情": "果断，低调",
+        "健康": "呼吸系统，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2061,
+      "age": 65,
+      "gan_zhi": "辛巳",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "冲月令"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，加速",
+        "财富": "偏财机遇，暴发",
+        "感情": "细腻，激情",
+        "健康": "肺经保养，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2062,
+      "age": 66,
+      "gan_zhi": "壬午",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，高峰",
+        "财富": "大进大出，旺财",
+        "感情": "浪漫，热烈",
+        "健康": "肾水调理，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2063,
+      "age": 67,
+      "gan_zhi": "癸未",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁君冲年"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "内收，调整",
+        "财富": "隐秘财，稳中求进",
+        "感情": "敏感，温和",
+        "健康": "泌尿系统，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 75,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2064,
+      "age": 68,
+      "gan_zhi": "甲申",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "开创，变革",
+        "财富": "正财，偏财机遇",
+        "感情": "桃花淡，追求",
+        "健康": "肝胆需养，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2065,
+      "age": 69,
+      "gan_zhi": "乙酉",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "甲午",
+        "start_age": 60,
+        "start_year": 2057,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [
+        "三合金局"
+      ],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "协作，精致",
+        "财富": "偏财，积蓄",
+        "感情": "人缘佳，含蓄",
+        "健康": "注意筋骨，保养",
+        "家庭": "稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2066,
+      "age": 70,
+      "gan_zhi": "丙戌",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "表现，收官，流年克日主",
+        "财富": "暴发，暗财",
+        "感情": "热情，孤独",
+        "健康": "心血管注意，注意意外",
+        "家庭": "长辈健康",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2067,
+      "age": 71,
+      "gan_zhi": "丁亥",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "日犯岁君",
+        "岁伤日干"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 45,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "精细，酝酿，流年克日主",
+        "财富": "细水长流，暗流",
+        "感情": "含蓄，暧昧",
+        "健康": "眼目保养，肾水调理",
+        "家庭": "家庭秘密",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天克地冲: 本年大凶,易有意外",
+          "severity": "high"
+        },
+        {
+          "type": "general",
+          "text": "日犯岁君: 个人重大变化年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 6,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "disaster",
+          "text": "天克地冲: 本年大凶,谨慎行事",
+          "severity": "critical"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 47.5,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天冲",
+        "spirit": "九天",
+        "risk": 80
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2068,
+      "age": 72,
+      "gan_zhi": "戊子",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [
+        "与年支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "文昌",
+          "type": "吉",
+          "meaning": "学业进步,文思敏捷"
+        }
+      ],
+      "tendencies": {
+        "事业": "稳重，变动，流年助日主",
+        "财富": "积累，暗财",
+        "感情": "平淡，桃花",
+        "健康": "脾胃调理，水过剩",
+        "家庭": "家庭变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2069,
+      "age": 73,
+      "gan_zhi": "己丑",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "规划，积累，流年助日主",
+        "财富": "储蓄，正财稳",
+        "感情": "务实，平淡",
+        "健康": "皮肤注意，土湿",
+        "家庭": "长辈助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年生日主: 顺遂之年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天辅",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2070,
+      "age": 74,
+      "gan_zhi": "庚寅",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "变革，突破",
+        "财富": "大刀阔斧，偏财",
+        "感情": "果断，热情",
+        "健康": "呼吸系统，肝火旺",
+        "家庭": "迁居",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2071,
+      "age": 75,
+      "gan_zhi": "辛卯",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "转型，发展",
+        "财富": "偏财机遇，正财",
+        "感情": "细腻，桃花旺",
+        "健康": "肺经保养，注意肝胆",
+        "家庭": "朋友助力",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 85,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 60,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天禽",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2072,
+      "age": 76,
+      "gan_zhi": "壬辰",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [],
+      "harmonies": [],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "扩张，转折",
+        "财富": "大进大出，守财",
+        "感情": "浪漫，低调",
+        "健康": "肾水调理，脾胃问题",
+        "家庭": "家庭稳定",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 60,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2073,
+      "age": 77,
+      "gan_zhi": "癸巳",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "冲月令"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "文昌"
+      ],
+      "spirits_bad": [
+        "劫煞",
+        "血刃"
+      ],
+      "accident_risk": 20,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "内收，加速",
+        "财富": "隐秘财，暴发",
+        "感情": "敏感，激情",
+        "健康": "泌尿系统，心血管",
+        "家庭": "社交活跃",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "血刃照命: 血光外伤风险",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 70,
+        "wealth": 45,
+        "love": 50,
+        "health": 60.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天心",
+        "spirit": "九天",
+        "risk": 40
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2074,
+      "age": 78,
+      "gan_zhi": "甲午",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "月德",
+        "天赦",
+        "红鸾"
+      ],
+      "spirits_bad": [
+        "地煞",
+        "官符",
+        "丧门",
+        "吊客"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "桃花",
+          "type": "吉",
+          "meaning": "人缘佳,异性缘旺"
+        },
+        {
+          "name": "天乙贵人",
+          "type": "吉",
+          "meaning": "贵人相助,转危为安"
+        }
+      ],
+      "tendencies": {
+        "事业": "开创，高峰",
+        "财富": "正财，旺财",
+        "感情": "桃花淡，热烈",
+        "健康": "肝胆需养，心火旺",
+        "家庭": "喜庆",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "丧吊临门: 孝服病痛之年",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "月德照命: 贵人相助",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天赦降临: 绝处逢生",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "红鸾星动: 姻缘喜事",
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 4,
+          "severity": "high"
+        },
+        {
+          "type": "love",
+          "text": "桃花年: 异性缘旺盛",
+          "severity": "medium"
+        },
+        {
+          "type": "marriage",
+          "text": "婚缘年: 红鸾桃花齐动",
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 55,
+        "love": 75,
+        "health": 55.0,
+        "family": 60,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2075,
+      "age": 79,
+      "gan_zhi": "乙未",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁君冲年",
+        "日干伤岁"
+      ],
+      "harmonies": [],
+      "spirits_good": [
+        "天德",
+        "驿马"
+      ],
+      "spirits_bad": [
+        "五鬼",
+        "大耗"
+      ],
+      "accident_risk": 0,
+      "shensha_detail": [
+        {
+          "name": "华盖",
+          "type": "平",
+          "meaning": "孤独清高,才艺天赋"
+        }
+      ],
+      "tendencies": {
+        "事业": "协作，调整",
+        "财富": "偏财，稳中求进",
+        "感情": "人缘佳，温和",
+        "健康": "注意筋骨，脾胃调理",
+        "家庭": "家庭和谐",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "冲年柱: 家族/长辈相关变动",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天德护身: 逢凶化吉",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "驿马星动: 动中求财/迁居远行",
+          "severity": "medium"
+        },
+        {
+          "type": "wealth_loss",
+          "text": "大耗劫煞之年，投资需谨慎",
+          "score": 2,
+          "severity": "medium"
+        },
+        {
+          "type": "family_change",
+          "text": "丧吊临门或冲年柱，家庭重大变化",
+          "score": 3,
+          "severity": "medium"
+        },
+        {
+          "type": "move",
+          "text": "驿马星动，迁居或远行",
+          "score": 2,
+          "severity": "medium"
+        }
+      ],
+      "scores": {
+        "career": 65,
+        "wealth": 35,
+        "love": 50,
+        "health": 70.0,
+        "family": 45,
+        "social": 70
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天柱",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    },
+    {
+      "year": 2076,
+      "age": 80,
+      "gan_zhi": "丙申",
+      "is_past": false,
+      "is_current": false,
+      "is_future": true,
+      "incalendar": false,
+      "da_yun": {
+        "大运": "乙巳",
+        "start_age": 70,
+        "start_year": 2067,
+        "direction": "逆",
+        "element_gan": "木",
+        "element_zhi": "火"
+      },
+      "conflicts": [
+        "岁伤日干"
+      ],
+      "harmonies": [
+        "与日支六合"
+      ],
+      "spirits_good": [
+        "天乙"
+      ],
+      "spirits_bad": [
+        "天刑",
+        "灾煞"
+      ],
+      "accident_risk": 40,
+      "shensha_detail": [],
+      "tendencies": {
+        "事业": "表现，变革，流年克日主",
+        "财富": "暴发，偏财机遇",
+        "感情": "热情，追求",
+        "健康": "心血管注意，肺经",
+        "家庭": "位置变动",
+        "人际": "平稳"
+      },
+      "events": [
+        {
+          "type": "general",
+          "text": "灾煞临门: 水火灾害风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "天刑降临: 官非刑罚风险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "六合化解: 有惊无险",
+          "severity": "medium"
+        },
+        {
+          "type": "general",
+          "text": "流年克日主: 压力挑战年",
+          "severity": "medium"
+        },
+        {
+          "type": "accident",
+          "text": "凶煞临门之年，意外风险高",
+          "score": 7,
+          "severity": "high"
+        }
+      ],
+      "scores": {
+        "career": 50,
+        "wealth": 65,
+        "love": 50,
+        "health": 50.0,
+        "family": 70,
+        "social": 55
+      },
+      "qimen": {
+        "door": "惊",
+        "star": "天芮",
+        "spirit": "九天",
+        "risk": 100
+      },
+      "real_event": "",
+      "calibration": ""
+    }
+  ],
+  "major_past_events": [
+    {
+      "year": 1997,
+      "age": 1,
+      "gan_zhi": "丁丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 1998,
+      "age": 2,
+      "gan_zhi": "戊寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2000,
+      "age": 4,
+      "gan_zhi": "庚辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2001,
+      "age": 5,
+      "gan_zhi": "辛巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2002,
+      "age": 6,
+      "gan_zhi": "壬午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2002,
+      "age": 6,
+      "gan_zhi": "壬午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2004,
+      "age": 8,
+      "gan_zhi": "甲申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2005,
+      "age": 9,
+      "gan_zhi": "乙酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "戊子"
+    },
+    {
+      "year": 2006,
+      "age": 10,
+      "gan_zhi": "丙戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2007,
+      "age": 11,
+      "gan_zhi": "丁亥",
+      "type": "general",
+      "text": "天克地冲: 本年大凶,易有意外",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2007,
+      "age": 11,
+      "gan_zhi": "丁亥",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2007,
+      "age": 11,
+      "gan_zhi": "丁亥",
+      "type": "disaster",
+      "text": "天克地冲: 本年大凶,谨慎行事",
+      "severity": "critical",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2008,
+      "age": 12,
+      "gan_zhi": "戊子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2009,
+      "age": 13,
+      "gan_zhi": "己丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2010,
+      "age": 14,
+      "gan_zhi": "庚寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2012,
+      "age": 16,
+      "gan_zhi": "壬辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2013,
+      "age": 17,
+      "gan_zhi": "癸巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2014,
+      "age": 18,
+      "gan_zhi": "甲午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2014,
+      "age": 18,
+      "gan_zhi": "甲午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "己亥"
+    },
+    {
+      "year": 2016,
+      "age": 20,
+      "gan_zhi": "丙申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2017,
+      "age": 21,
+      "gan_zhi": "丁酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2018,
+      "age": 22,
+      "gan_zhi": "戊戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2019,
+      "age": 23,
+      "gan_zhi": "己亥",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2020,
+      "age": 24,
+      "gan_zhi": "庚子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2021,
+      "age": 25,
+      "gan_zhi": "辛丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2022,
+      "age": 26,
+      "gan_zhi": "壬寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2024,
+      "age": 28,
+      "gan_zhi": "甲辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2025,
+      "age": 29,
+      "gan_zhi": "乙巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "庚戌"
+    },
+    {
+      "year": 2026,
+      "age": 30,
+      "gan_zhi": "丙午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2026,
+      "age": 30,
+      "gan_zhi": "丙午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "辛酉"
+    }
+  ],
+  "major_future_events": [
+    {
+      "year": 2027,
+      "age": 31,
+      "gan_zhi": "丁未",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2028,
+      "age": 32,
+      "gan_zhi": "戊申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2029,
+      "age": 33,
+      "gan_zhi": "己酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2030,
+      "age": 34,
+      "gan_zhi": "庚戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2031,
+      "age": 35,
+      "gan_zhi": "辛亥",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2032,
+      "age": 36,
+      "gan_zhi": "壬子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2033,
+      "age": 37,
+      "gan_zhi": "癸丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2034,
+      "age": 38,
+      "gan_zhi": "甲寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "辛酉"
+    },
+    {
+      "year": 2036,
+      "age": 40,
+      "gan_zhi": "丙辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2037,
+      "age": 41,
+      "gan_zhi": "丁巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2038,
+      "age": 42,
+      "gan_zhi": "戊午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2038,
+      "age": 42,
+      "gan_zhi": "戊午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2039,
+      "age": 43,
+      "gan_zhi": "己未",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2040,
+      "age": 44,
+      "gan_zhi": "庚申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2041,
+      "age": 45,
+      "gan_zhi": "辛酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2042,
+      "age": 46,
+      "gan_zhi": "壬戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2043,
+      "age": 47,
+      "gan_zhi": "癸亥",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2044,
+      "age": 48,
+      "gan_zhi": "甲子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2045,
+      "age": 49,
+      "gan_zhi": "乙丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "壬申"
+    },
+    {
+      "year": 2046,
+      "age": 50,
+      "gan_zhi": "丙寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2048,
+      "age": 52,
+      "gan_zhi": "戊辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2049,
+      "age": 53,
+      "gan_zhi": "己巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2050,
+      "age": 54,
+      "gan_zhi": "庚午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2050,
+      "age": 54,
+      "gan_zhi": "庚午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2051,
+      "age": 55,
+      "gan_zhi": "辛未",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2052,
+      "age": 56,
+      "gan_zhi": "壬申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2053,
+      "age": 57,
+      "gan_zhi": "癸酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2054,
+      "age": 58,
+      "gan_zhi": "甲戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2055,
+      "age": 59,
+      "gan_zhi": "乙亥",
+      "type": "job_change",
+      "text": "驿马星动或日犯岁君，事业变动年",
+      "severity": "high",
+      "da_yun": "癸未"
+    },
+    {
+      "year": 2056,
+      "age": 60,
+      "gan_zhi": "丙子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2057,
+      "age": 61,
+      "gan_zhi": "丁丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2058,
+      "age": 62,
+      "gan_zhi": "戊寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2060,
+      "age": 64,
+      "gan_zhi": "庚辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2061,
+      "age": 65,
+      "gan_zhi": "辛巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2062,
+      "age": 66,
+      "gan_zhi": "壬午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2062,
+      "age": 66,
+      "gan_zhi": "壬午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2064,
+      "age": 68,
+      "gan_zhi": "甲申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2065,
+      "age": 69,
+      "gan_zhi": "乙酉",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "甲午"
+    },
+    {
+      "year": 2066,
+      "age": 70,
+      "gan_zhi": "丙戌",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2067,
+      "age": 71,
+      "gan_zhi": "丁亥",
+      "type": "general",
+      "text": "天克地冲: 本年大凶,易有意外",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2067,
+      "age": 71,
+      "gan_zhi": "丁亥",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2067,
+      "age": 71,
+      "gan_zhi": "丁亥",
+      "type": "disaster",
+      "text": "天克地冲: 本年大凶,谨慎行事",
+      "severity": "critical",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2068,
+      "age": 72,
+      "gan_zhi": "戊子",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2069,
+      "age": 73,
+      "gan_zhi": "己丑",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2070,
+      "age": 74,
+      "gan_zhi": "庚寅",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2072,
+      "age": 76,
+      "gan_zhi": "壬辰",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2073,
+      "age": 77,
+      "gan_zhi": "癸巳",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2074,
+      "age": 78,
+      "gan_zhi": "甲午",
+      "type": "family_change",
+      "text": "丧吊临门或冲年柱，家庭重大变化",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2074,
+      "age": 78,
+      "gan_zhi": "甲午",
+      "type": "marriage",
+      "text": "婚缘年: 红鸾桃花齐动",
+      "severity": "high",
+      "da_yun": "乙巳"
+    },
+    {
+      "year": 2076,
+      "age": 80,
+      "gan_zhi": "丙申",
+      "type": "accident",
+      "text": "凶煞临门之年，意外风险高",
+      "severity": "high",
+      "da_yun": "乙巳"
+    }
+  ],
+  "calibration": {
+    "calibrated": true,
+    "accuracy": 0.0,
+    "matched_events": 0,
+    "total_events": 8,
+    "message": "已匹配0/8个事件,系统校准中"
+  },
+  "confidence": 33.4,
+  "family_calibrated": true,
+  "calibration_accuracy": 12.5,
+  "calibration_events_used": [
+    {
+      "year": 2015,
+      "age": 19,
+      "event": "当兵入伍",
+      "type": "career_change",
+      "confirmed": true
+    },
+    {
+      "year": 2017,
+      "age": 21,
+      "event": "当兵结束, 二叔外公去世",
+      "type": "family_loss",
+      "confirmed": true
+    },
+    {
+      "year": 2018,
+      "age": 22,
+      "event": "上大专",
+      "type": "education",
+      "confirmed": true
+    },
+    {
+      "year": 2020,
+      "age": 24,
+      "event": "运维工程师(中长康达外包驻场怡园小学)",
+      "type": "career",
+      "confirmed": true
+    },
+    {
+      "year": 2022,
+      "age": 26,
+      "event": "运维工程师(天河智慧城南方基地)",
+      "type": "career_change",
+      "confirmed": true
+    },
+    {
+      "year": 2023,
+      "age": 27,
+      "event": "AI盛行炒币有亏有赚",
+      "type": "investment",
+      "confirmed": true
+    },
+    {
+      "year": 2025,
+      "age": 29,
+      "event": "开始送外卖",
+      "type": "career_change",
+      "confirmed": true
+    },
+    {
+      "year": 2026,
+      "age": 30,
+      "event": "送外卖日赚不到100,家里负债",
+      "type": "financial_stress",
+      "confirmed": true
+    }
+  ]
+}

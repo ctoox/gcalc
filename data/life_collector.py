@@ -1,0 +1,172 @@
+"""Full-life data collector.
+For each famous person: collect ALL available year-by-year records
+(birth, education, career milestones, marriage, children, accidents, death).
+This enables year-by-year calibration of 流年 predictions."""
+
+import sys, os, json, random
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from datetime import date
+
+# Pre-built life timeline data for historical figures
+# Each entry: {year, age, event_type, description, source}
+LIFE_TIMELINES = {
+    "Albert Einstein": [
+        {"year": 1879, "age": 0, "type": "birth", "desc": "出生于德国乌尔姆", "source": "bio"},
+        {"year": 1888, "age": 9, "type": "education", "desc": "进入路易波德中学", "source": "bio"},
+        {"year": 1895, "age": 16, "type": "education", "desc": "前往瑞士阿劳州立中学", "source": "bio"},
+        {"year": 1896, "age": 17, "type": "education", "desc": "进入苏黎世联邦理工学院", "source": "bio"},
+        {"year": 1900, "age": 21, "type": "career", "desc": "获得物理教师资格证书", "source": "bio"},
+        {"year": 1901, "age": 22, "type": "career", "desc": "加入瑞士国籍", "source": "bio"},
+        {"year": 1902, "age": 23, "type": "family", "desc": "父亲去世", "source": "bio"},
+        {"year": 1902, "age": 23, "type": "career", "desc": "入职伯尔尼专利局", "source": "bio"},
+        {"year": 1903, "age": 24, "type": "family", "desc": "与米列娃·玛丽克结婚", "source": "bio"},
+        {"year": 1904, "age": 25, "type": "family", "desc": "长子汉斯出生", "source": "bio"},
+        {"year": 1905, "age": 26, "type": "career", "desc": "奇迹年:发表4篇重要论文(光子、布朗运动、狭义相对论、质能方程)", "source": "bio"},
+        {"year": 1907, "age": 28, "type": "career", "desc": "发现质能方程E=mc²", "source": "bio"},
+        {"year": 1910, "age": 31, "type": "family", "desc": "次子爱德华出生", "source": "bio"},
+        {"year": 1912, "age": 33, "type": "family", "desc": "与米列娃关系破裂", "source": "bio"},
+        {"year": 1914, "age": 35, "type": "career", "desc": "成为柏林洪堡大学教授/普鲁士科学院院士", "source": "bio"},
+        {"year": 1915, "age": 36, "type": "career", "desc": "发表广义相对论", "source": "bio"},
+        {"year": 1919, "age": 40, "type": "family", "desc": "与米列娃离婚,与表姐爱尔莎结婚", "source": "bio"},
+        {"year": 1919, "age": 40, "type": "career", "desc": "日食验证广义相对论,一夜成名", "source": "bio"},
+        {"year": 1921, "age": 42, "type": "career", "desc": "获得诺贝尔物理学奖(1922年颁发)", "source": "bio"},
+        {"year": 1933, "age": 54, "type": "career", "desc": "纳粹上台,流亡美国", "source": "bio"},
+        {"year": 1936, "age": 57, "type": "family", "desc": "妻子爱尔莎去世", "source": "bio"},
+        {"year": 1939, "age": 60, "type": "career", "desc": "致信罗斯福总统建议研制原子弹", "source": "bio"},
+        {"year": 1955, "age": 76, "type": "death", "desc": "因主动脉瘤破裂去世", "source": "bio"},
+    ],
+    "Abraham Lincoln": [
+        {"year": 1809, "age": 0, "type": "birth", "desc": "出生于肯塔基州哈丁县", "source": "bio"},
+        {"year": 1816, "age": 7, "type": "family", "desc": "全家迁至印第安纳州", "source": "bio"},
+        {"year": 1818, "age": 9, "type": "family", "desc": "母亲南希去世", "source": "bio"},
+        {"year": 1819, "age": 10, "type": "family", "desc": "父亲再婚,继母萨拉善待他", "source": "bio"},
+        {"year": 1830, "age": 21, "type": "family", "desc": "全家迁至伊利诺伊州", "source": "bio"},
+        {"year": 1831, "age": 22, "type": "career", "desc": "第一次离开家庭独立生活", "source": "bio"},
+        {"year": 1832, "age": 23, "type": "career", "desc": "参加黑鹰战争,担任民兵队长", "source": "bio"},
+        {"year": 1834, "age": 25, "type": "career", "desc": "当选伊利诺伊州议员", "source": "bio"},
+        {"year": 1837, "age": 28, "type": "career", "desc": "成为律师,迁至斯普林菲尔德", "source": "bio"},
+        {"year": 1842, "age": 33, "type": "family", "desc": "与玛丽·托德结婚", "source": "bio"},
+        {"year": 1843, "age": 34, "type": "family", "desc": "长子罗伯特出生", "source": "bio"},
+        {"year": 1846, "age": 37, "type": "career", "desc": "当选美国众议员", "source": "bio"},
+        {"year": 1856, "age": 47, "type": "career", "desc": "加入共和党", "source": "bio"},
+        {"year": 1858, "age": 49, "type": "career", "desc": "与道格拉斯辩论,闻名全国", "source": "bio"},
+        {"year": 1860, "age": 51, "type": "career", "desc": "当选美国第16任总统", "source": "bio"},
+        {"year": 1861, "age": 52, "type": "career", "desc": "南北战争爆发", "source": "bio"},
+        {"year": 1862, "age": 53, "type": "family", "desc": "次子威利去世(11岁)", "source": "bio"},
+        {"year": 1863, "age": 54, "type": "career", "desc": "发表解放黑人奴隶宣言/葛底斯堡演说", "source": "bio"},
+        {"year": 1864, "age": 55, "type": "career", "desc": "连任总统", "source": "bio"},
+        {"year": 1865, "age": 56, "type": "career", "desc": "南北战争结束", "source": "bio"},
+        {"year": 1865, "age": 56, "type": "death", "desc": "在福特剧院被约翰·布斯暗杀", "source": "bio"},
+    ],
+    "John F. Kennedy": [
+        {"year": 1917, "age": 0, "type": "birth", "desc": "出生于马萨诸塞州布鲁克莱恩", "source": "bio"},
+        {"year": 1936, "age": 19, "type": "education", "desc": "进入哈佛大学", "source": "bio"},
+        {"year": 1940, "age": 23, "type": "education", "desc": "哈佛毕业,论文成为畅销书", "source": "bio"},
+        {"year": 1941, "age": 24, "type": "career", "desc": "加入美国海军", "source": "bio"},
+        {"year": 1943, "age": 26, "type": "career", "desc": "PT-109鱼雷艇被撞沉,英勇救人", "source": "bio"},
+        {"year": 1946, "age": 29, "type": "career", "desc": "当选美国众议员", "source": "bio"},
+        {"year": 1952, "age": 35, "type": "career", "desc": "当选美国参议员", "source": "bio"},
+        {"year": 1953, "age": 36, "type": "family", "desc": "与杰奎琳·李·布维尔结婚", "source": "bio"},
+        {"year": 1956, "age": 39, "type": "career", "desc": "几乎获得副总统提名,撰写《当仁不让》获普利策奖", "source": "bio"},
+        {"year": 1960, "age": 43, "type": "career", "desc": "当选美国第35任总统", "source": "bio"},
+        {"year": 1961, "age": 44, "type": "career", "desc": "猪湾事件/柏林墙修建", "source": "bio"},
+        {"year": 1962, "age": 45, "type": "career", "desc": "古巴导弹危机,成功化解", "source": "bio"},
+        {"year": 1963, "age": 46, "type": "career", "desc": "签署《限制核试验条约》", "source": "bio"},
+        {"year": 1963, "age": 46, "type": "family", "desc": "幼子帕特里克出生两天后夭折", "source": "bio"},
+        {"year": 1963, "age": 46, "type": "death", "desc": "在达拉斯遇刺身亡", "source": "bio"},
+    ],
+    "毛泽东": [
+        {"year": 1893, "age": 0, "type": "birth", "desc": "出生于湖南湘潭韶山冲", "source": "bio"},
+        {"year": 1902, "age": 9, "type": "education", "desc": "入私塾读书", "source": "bio"},
+        {"year": 1910, "age": 17, "type": "education", "desc": "入湘乡东山高等小学堂", "source": "bio"},
+        {"year": 1911, "age": 18, "type": "career", "desc": "参加辛亥革命,加入湖南新军", "source": "bio"},
+        {"year": 1913, "age": 20, "type": "education", "desc": "入湖南省立第一师范学校", "source": "bio"},
+        {"year": 1918, "age": 25, "type": "career", "desc": "组织新民学会,首次到北京", "source": "bio"},
+        {"year": 1919, "age": 26, "type": "family", "desc": "母亲文七妹去世", "source": "bio"},
+        {"year": 1920, "age": 27, "type": "family", "desc": "父亲毛贻昌去世/与杨开慧结婚", "source": "bio"},
+        {"year": 1921, "age": 28, "type": "career", "desc": "参加中共一大", "source": "bio"},
+        {"year": 1923, "age": 30, "type": "career", "desc": "加入国民党,当选中央候补执行委员", "source": "bio"},
+        {"year": 1927, "age": 34, "type": "career", "desc": "秋收起义/创建井冈山革命根据地", "source": "bio"},
+        {"year": 1928, "age": 35, "type": "family", "desc": "与贺子珍结婚(井冈山时期)", "source": "bio"},
+        {"year": 1930, "age": 37, "type": "family", "desc": "妻子杨开慧被国民党杀害", "source": "bio"},
+        {"year": 1934, "age": 41, "type": "career", "desc": "长征开始,遵义会议确立领导地位", "source": "bio"},
+        {"year": 1937, "age": 44, "type": "career", "desc": "抗日战争爆发,发表《论持久战》", "source": "bio"},
+        {"year": 1945, "age": 52, "type": "career", "desc": "抗日战争胜利/重庆谈判", "source": "bio"},
+        {"year": 1949, "age": 56, "type": "career", "desc": "中华人民共和国成立", "source": "bio"},
+        {"year": 1958, "age": 65, "type": "career", "desc": "大跃进运动开始", "source": "bio"},
+        {"year": 1966, "age": 73, "type": "career", "desc": "文化大革命开始", "source": "bio"},
+        {"year": 1972, "age": 79, "type": "career", "desc": "会见尼克松,中美关系正常化", "source": "bio"},
+        {"year": 1976, "age": 83, "type": "death", "desc": "在北京逝世", "source": "bio"},
+    ],
+}
+
+FAMILY_SECRETS = {
+    "毛泽东": "父亲毛贻昌严厉,早年家庭经济拮据但并非赤贫。母亲文七妹信佛,对毛性格影响很大。"
+             "实际家庭出身是富农并非贫农(官方记载有美化)。",
+    "鲁迅": "本名周树人,出身绍兴士大夫家庭。祖父周福清因科场案入狱,家道中落。"
+            "父亲周伯宜长期患病后去世,童年经历世态炎凉。官方记录淡化其家庭悲剧。",
+    "蒋介石": "出身盐商家庭但父早逝,母王采玉养育。实际家庭并非大富,中产偏上。"
+              "官方记录夸大家族背景以增政治分量。",
+}
+
+
+class LifeCollector:
+    def __init__(self, data_path="data/life_timelines.json"):
+        self.data_path = data_path
+        self.timelines = {}
+        self._load()
+
+    def _load(self):
+        if os.path.exists(self.data_path):
+            with open(self.data_path, encoding="utf-8") as f:
+                self.timelines = json.load(f)
+        else:
+            self.timelines = dict(LIFE_TIMELINES)
+            self.save()
+
+    def save(self):
+        with open(self.data_path, "w", encoding="utf-8") as f:
+            json.dump(self.timelines, f, ensure_ascii=False, indent=2)
+
+    def get_timeline(self, name):
+        return self.timelines.get(name, [])
+
+    def list_available(self):
+        return list(self.timelines.keys())
+
+    def get_family_secret(self, name):
+        return FAMILY_SECRETS.get(name, "")
+
+    def verify_lifespan(self, name):
+        """Verify that the lifespan in our data matches the death record."""
+        tl = self.get_timeline(name)
+        if not tl:
+            return None
+        birth = None
+        death = None
+        for e in tl:
+            if e["type"] == "birth":
+                birth = e["year"]
+            if e["type"] == "death":
+                death = e["year"]
+        if birth and death:
+            return {"name": name, "birth": birth, "death": death, "lifespan": death - birth}
+        return None
+
+    def get_milestone_years(self, name, event_type="career"):
+        """Get all years with a specific event type."""
+        tl = self.get_timeline(name)
+        return [e for e in tl if e["type"] == event_type]
+
+
+if __name__ == "__main__":
+    lc = LifeCollector()
+    print(f"收录人物: {lc.list_available()}")
+    for name in lc.list_available():
+        v = lc.verify_lifespan(name)
+        if v:
+            print(f"  {name}: {v['birth']}-{v['death']}, 享年{v['lifespan']}岁")
+        secret = lc.get_family_secret(name)
+        if secret:
+            print(f"    家庭隐情: {secret[:50]}...")
